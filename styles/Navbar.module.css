@@ -1,0 +1,7 @@
+.btns > li {
+  @apply mx-6
+}
+
+.walletBtn button {
+  background-color: #512da8;
+}
